@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "4c2d841bee7afaee",
+    "type": "split",
+    "children": [
+      {
+        "id": "421ff6fd21b8fa0c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5ce0bef72cbe94a",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb1c7dd3a759c5e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2405504f739f630",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "47174ca549b6b019",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f57f037c9d316666",
+    "type": "split",
+    "children": [
+      {
+        "id": "7073032fe96821e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90e9900dd11f6a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "421ff6fd21b8fa0c",
+  "lastOpenFiles": [
+    "GraphicsBookmarks/MicrosoftDocs/Graphics Pipeline (Win32 apps).md",
+    "GraphicsBookmarks/Raspberry PI Optim.md",
+    "GraphicsBookmarks/RenderingTechnique/PBR explained (content creation).md",
+    "GraphicsBookmarks/RenderingTechnique/Omnidirectional Shadow Mapping.md",
+    "GraphicsBookmarks/RenderingTechnique/Next Gen Speed Trees.md",
+    "GraphicsBookmarks/Intro to Universal Scene Description.md",
+    "GraphicsBookmarks/Untitled.md",
+    "GraphicsBookmarks/Maths/Untitled.md",
+    "GraphicsBookmarks/Vulkan/Untitled.md",
+    "GraphicsBookmarks/Case Studies/Untitled.md"
+  ]
+}
