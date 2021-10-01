@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "421ff6fd21b8fa0c",
+        "id": "adaa9073706f15ee",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/An aside - Motivation & Effort.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/An aside - Motivation & Effort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "421ff6fd21b8fa0c",
+  "active": "adaa9073706f15ee",
   "lastOpenFiles": [
-    "GraphicsBookmarks/MicrosoftDocs/Graphics Pipeline (Win32 apps).md",
-    "GraphicsBookmarks/Raspberry PI Optim.md",
-    "GraphicsBookmarks/RenderingTechnique/PBR explained (content creation).md",
-    "GraphicsBookmarks/RenderingTechnique/Omnidirectional Shadow Mapping.md",
-    "GraphicsBookmarks/RenderingTechnique/Next Gen Speed Trees.md",
-    "GraphicsBookmarks/Intro to Universal Scene Description.md",
-    "GraphicsBookmarks/Untitled.md",
-    "GraphicsBookmarks/Maths/Untitled.md",
-    "GraphicsBookmarks/Vulkan/Untitled.md",
-    "GraphicsBookmarks/Case Studies/Untitled.md"
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/An aside - Motivation & Effort.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 1 - Intro.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 3 - The first 1000.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 4 - Resources Rush The Stage.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 4.5 - idTech.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 5 - Your Pixel Are Served.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 6 - Pipelines.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 7 - The Renderer Of Worlds.md",
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Untitled.md",
+    "GraphicsBookmarks/Sharper Mipmapping using Shader Based Supersampling.md"
   ]
 }
