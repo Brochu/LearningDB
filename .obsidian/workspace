@@ -7,10 +7,9 @@
         "id": "adaa9073706f15ee",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "GraphicsBookmarks/Vulkan/Memory/Vulkan Memory Management.md",
-            "mode": "source"
+            "file": "ModernC++FeatSafety.png"
           }
         }
       }
@@ -68,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GraphicsBookmarks/Vulkan/Memory/Vulkan Memory Management.md",
+                "file": "ModernC++FeatSafety.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +87,15 @@
   },
   "active": "adaa9073706f15ee",
   "lastOpenFiles": [
+    "ModernC++FeatSafety.png",
+    "GraphicsBookmarks/RenderingTechnique/Render graphs and Vulkan.md",
+    "GraphicsBookmarks/Vulkan/API without Secrets.md",
+    "GraphicsBookmarks/Vulkan/Sync Examples.md",
     "GraphicsBookmarks/Vulkan/Memory/Vulkan Memory Management.md",
     "GraphicsBookmarks/Vulkan/Memory/VULKAN MEMORY MANAGEMENT, HOW TO WRITE YOUR OWN ALLOCATOR.md",
-    "GraphicsBookmarks/Vulkan/Sync Examples.md",
-    "GraphicsBookmarks/Vulkan/API without Secrets.md",
     "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/An aside - Motivation & Effort.md",
     "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 1 - Intro.md",
     "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 3 - The first 1000.md",
-    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 4 - Resources Rush The Stage.md",
-    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 4.5 - idTech.md",
-    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 5 - Your Pixel Are Served.md"
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 4 - Resources Rush The Stage.md"
   ]
 }
