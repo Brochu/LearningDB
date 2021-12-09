@@ -7,9 +7,10 @@
         "id": "adaa9073706f15ee",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "ModernC++FeatSafety.png"
+            "file": "Metal Gear Solid V - Graphics Study.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ModernC++FeatSafety.png",
+                "file": "Metal Gear Solid V - Graphics Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +88,8 @@
   },
   "active": "adaa9073706f15ee",
   "lastOpenFiles": [
+    "Metal Gear Solid V - Graphics Study.md",
+    "GraphicsBookmarks/Case Studies/Making of Gears 5.md",
     "ModernC++FeatSafety.png",
     "GraphicsBookmarks/RenderingTechnique/Render graphs and Vulkan.md",
     "GraphicsBookmarks/Vulkan/API without Secrets.md",
@@ -94,8 +97,6 @@
     "GraphicsBookmarks/Vulkan/Memory/Vulkan Memory Management.md",
     "GraphicsBookmarks/Vulkan/Memory/VULKAN MEMORY MANAGEMENT, HOW TO WRITE YOUR OWN ALLOCATOR.md",
     "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/An aside - Motivation & Effort.md",
-    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 1 - Intro.md",
-    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 3 - The first 1000.md",
-    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 4 - Resources Rush The Stage.md"
+    "GraphicsBookmarks/Vulkan/FasterThanLife-Tutorial/Part 1 - Intro.md"
   ]
 }
